@@ -1,2 +1,2 @@
 # Stack-Implementation
-Array-based implementation of stack (Menu-based)
+Array-based and Queue-based implementation of stack (Menu-based)
